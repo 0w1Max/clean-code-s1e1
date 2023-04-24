@@ -41,10 +41,12 @@ body {
   margin: 0;
   padding: 0px;
 }
-.list__item, .title {
+.list__item,
+.title {
   list-style: none;
 }
-.input, .button{
+.input,
+.button{
   outline: none;
 }
 .button {
